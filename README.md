@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @arcederick
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript
-- 💞️ I’m looking to collaborate on Front and Backend area 
-- 📫 How to reach me: arcederick.dev@gmail.com
+import Desenvolvedor from 'arcederick';
+
+class sobreMim extends Desenvolvedor {
+  nome = 'Derick Arce';
+  area = 'Analista de Suporte';
+  trabalho = 'Microrib Software';
+  local = 'Ribeirao Preto';  
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ['HTML5 CSS3 Javascript Python'];
+  frameworks = ['Django Flutter'];
+  bd = ['MySql'];  
+}
+
 
 
 <!---
