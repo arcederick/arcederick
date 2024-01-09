@@ -5,18 +5,18 @@
 
 
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Derick Arce </h1>
+<h1 align="center">Olá, tudo bem ?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Derick Arce </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brasil.
+No desenvolvimento meu foco tem sido me tornar um programador FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :D
 
-- 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web and software applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems for pratice and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-arcederick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arcederick/)
+- 🔭 Tenho trabalhado com projetos Front End e Back End para ambiente web e também com Software ERP Desktop.
+- 🌱 Sempre explorando novas técnicas e tendências em projetos pessoais e me dedicando aos estudos constantemente.
+- ⚡ Em meu tempo livre aproveito para curtir minha família.
+- 📫 Como me encontrar: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-arcederick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arcederick/)
 
 ---
 
