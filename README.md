@@ -11,7 +11,7 @@
 
 
 
-No desenvolvimento meu foco tem sido me tornar um programador FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :D
+Meu foco tem sido me tornar um programador FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :D
 
 - 🔭 Tenho trabalhado com projetos Front End e Back End para ambiente web e também com Software ERP Desktop.
 - 🌱 Sempre explorando novas técnicas e tendências em projetos pessoais e me dedicando aos estudos constantemente.
