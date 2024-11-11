@@ -11,7 +11,7 @@
 
 
 
-Busco ser um programador FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :D
+FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :D
 
 - 🔭 Tenho trabalhado com projetos Front End e Back End para ambiente web.
 - 🌱 Sempre explorando novas técnicas e tendências em projetos pessoais e me dedicando aos estudos constantemente.
