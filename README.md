@@ -37,9 +37,20 @@ FullStack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp; 
 </p>
 
+[![card](https://github-readme-stats.vercel.app/api?username=arcederick&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=arcederick&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+Education <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :D
 
+- Graduação: Analise e Desenvolvimento de Sistemas.
+- Udemy: Banco de dados / Desenvolvimento Python - Flask, Pandas, Django / Node.js - React - JavaScript / Desenvolvimento C# .
+- Conquer: Inteligência Emocional / Liderança de diferentes perfis e gerações.
+- PUC-RS: Produtividade e Gestão de Tempo / Competências Profissionais e Tecnologicas.
+- Senac: Gestão de Pessoas.
+
+---
 
 
 
